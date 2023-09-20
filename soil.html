@@ -1,0 +1,44 @@
+<h2>Soil</h2>
+
+<script>
+    let Porosity = 0    // n
+    let Density = 0     // p
+    let DryDensity = 0  // p-d
+    // M & V ( Mass and Volume )
+    let M = 0
+    let V = 0
+    let Air = 0         // MO / O | Vv
+    let O = 0
+    let Vv = 0
+    let Water = 0       // Mw | Va
+    let Mw = 0
+    let Va = 0
+    let Solids = 0      // Ms | Vs
+    let Ms = 0
+    let Vs = 0
+
+    /*
+    Porosity
+    n = V-v / V
+
+    Density (volume weight)
+    p = M / V
+
+    Dry Density
+    p-d = M-s / V
+    */
+
+    Vv = 50 // cm3 ?
+    V = 50 // cm3
+
+    M = 50 // g
+
+    Ms = 30 // g
+
+    Porosity = Vv / V
+
+    Density = M / V
+
+    DryDensity = Ms / V
+
+</script>
