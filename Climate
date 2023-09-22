@@ -1,0 +1,20 @@
+Theoretical growing season
+
+from first day above 5c to last day above 5c
+
+
+Frost free growing season
+
+from first day above 0 to last day above 0
+
+
+Heatsum
+Sum up the average or mean? value of each day in the growing season
+
+For every 100 meters above sea level, add remove .7C from temperature
+
+
+Yearly rainfall (årsnedbør)
+
+Only calculate the rainfall in the growing season (but in some cases the rainfall before the growing season is important to store water for later dry periods)
+Sum up mm rain each day - typically for a number of years - then average the sum to get a more typical value
