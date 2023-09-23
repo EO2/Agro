@@ -20,7 +20,7 @@ Stort sett forbrenningsmotor med diesel. (2 takt, 4 takt. regner med mest 4 takt
 4t (innsugning, Kompression, forbrenning/ekspansjon, utblåsning)
 
 Traktor bruker tannhjul mellom veivaksling og kamaksling - så en slipper registerreim.
-Stang mellom kamaksling og ventiler er visst også gått ut av noen typer.
+Stang mellom kamaksling og ventiler er visst også gått ut av noen typer. pushrod
 
 Ottocycle, atkinscycle
 
@@ -50,5 +50,72 @@ Lyd .. ?%
 
 Elmotor bruker stor del av kraften. Høy utgående effekt.
 
-Luftkjøling (vs vannkjøling / oljekjøling)
+Luftkjøling (vs vannkjøling / oljekjøling eller bare kalt veskekjøling)
 
+Gjennom motor og så til radiator.
+Pupe, radiatorlokk, termostat (gjerne to metaller som ekspanderer forskjellig - hva het det?), temperaturmåler, tappekraner.
+Ekspansjonstank (og påfyllingslokk). Fordelingsrør.
+Varmeapparat (gjenbruke varme til hytten i traktoren).
+
+Blir det kaldt i hytten, så er gjerne kjølesystemet rennt av osv.
+
+Frostveske
+Hindre frost og rust. heve kokepunktet. (gammel ford motorblokk rustet grunnet for dårlig kjøleveske)
+
+Volumprosent (vann/glykol) Normalt 50/50
+50 vol % gir frysepunkt -37
+
+Nye traktorer gjerne biologisk basert kjøleveske
+Glykol farlig for hunder - ikke være nær når den byttes.
+Ikke blande ny kjøleveske med glykol. Mulig det ikke går an å bruke ny type å gammel motor. Men burde vel gå egentlig.
+
+Dieselproblemer om vinteren.
+Diesel skiller ut voks ved lave temperaturer. Tetter til dieselfilter.
+Vanlig diesel skiller ut voks ved -11.
+Vinterdiesel (mer paraffin i - lavere effekt om sommeren, og generelt egentlig. Forsvaret: F34 - helårs blanding)
+G24  -24 (vår og høstdiesel
+Arktisk G32  -32
+
+Bruke helst motorvarmer (2 timer før, gjerne timer)
+
+Godt ladet batteri - starter mye bedre. lavt batteri = ingen start.
+Tynn olje (syntetisk) - motor lettere å dra rundt. (ofte ulik olje for sommer og vinter.. husker ikke betegnelsene 5w40 ? hmm)
+.
+.
+
+
+Smøresystemets oppgaver i 4-taktsmotor
+redusere friksjon
+rense
+kjøle
+tette
+hindre korrosjon
+dempe... hva sjekke ppt.
+
+Sump (oilpan), and sump strainer
+camshaft earing, connecting rod bearing, big-end bearing.
+
+Crankchaft drillings. Cam. tappet. valve rocker. pushrod. feed to main bearings.
+
+Bytte olje etter 600 timer ca. (Bytte, ikke fylle på).
+Oljetrykk sensor.
+
+Orange lys - varsler (lav kjøleveske)
+Rød lys - stopp.. (oljetrykk, ingen kjøleveske)
+
+Betydelige NOx reduksjoner gjennom årene. (og HC, partikler)
+
+AdBlue / DEF tank.
+Tank, supply module, dosing module, exhaust containing NOx, SCR Catalyst, nitrogen and water out..
+
+Toyota Hiace - oljesensor med manuell bryter. først sjekker om sensor virker, så bruke sensor. Slipper å ha strøm på hele tiden. varer lengre gjerne.
+
+John deere begynte med katalysator og filter. (avgassfilter)
+EGR ventil.. tar inn eksos og gjenbrenner det. EGR cooler.
+DEF injector. (final tier 4 tech). tied to engin cooler.
+WGT, DOC. Air to air cooler. (diesel oksidasjons katalysator)
+
+DPF diesel partikkel filter. (p sensor, temp sensor) Filteret kan bli fullt - må brennes løst. motor ruses opp og kjører renseprosess.
+Tips om å kjøre med høyt turtall på diesel - brenner partikler mer effektivt. (både bil og traktor).
+Filteret kuster gjerne 40k og med arbeid for å bytte var det 110k.
+AdBlue bruker ikke diesel partikkel filter.
