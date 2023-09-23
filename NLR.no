@@ -119,3 +119,60 @@ DPF diesel partikkel filter. (p sensor, temp sensor) Filteret kan bli fullt - m�
 Tips om å kjøre med høyt turtall på diesel - brenner partikler mer effektivt. (både bil og traktor).
 Filteret kuster gjerne 40k og med arbeid for å bytte var det 110k.
 AdBlue bruker ikke diesel partikkel filter.
+
+
+Gir - Hurtiggir + 4 + revers. plus | og || .. (16 frem, 8 bak)
+Gruppegir og hovedgir (1-4)
+| og || er lavgir og høygir. (lavere gruppe med gir. girer hele hovedgir opp og ned)
+Bruker nr 2 på veien. Binder hovedgirene høyere. 
+Hurtiggiret kan oftest betjenes uten clutch - fint i oppoverbakker. (bryter, spake).
+Nyere traktorer har girspaker på siden, ikke på gulv.
+Clutch har visst ingen fuksjon lengre - men er der. Hva menes med dette?
+
+Synkronisering - finnes oftest på hovedgir, men ikke på gruppegir. Må gjerne stå i ro for å gå i revers (og 1+2). Kan få det til med dobbeltclutching, men gjerne best å stå i ro.. (Treffer akkurat, om du er heldig..)
+Synkronisert girkasse kan gires under fart.
+
+Finner traktorer med 64 gir hver vei. (nærmest trailere.) 4 hurtiggir vanlig. også 6 og 8.
+laveste gir gjerne 2.5 kmh. ( fast turtall gir for få gir, neste gir endrer turtall ).
+
+Bremse
+Ofte to bremsepedaler, en til hver side. Fysisk sammenkobling. Eller treffe begge pedaler.
+Styrebrems.
+Håndbrems. Ofe trykke pedal ned, og så låse med håndbrems.
+
+Gas - oftest håndgass. For å få jevnt turtall. (kan være begge deler, bruke en av gangen)
+
+Hydraulikken / trepunkten. Spake på siden i hytten - nyere har elektronisk bryter.
+Oljeuttak, egen spake. Tippe tilhenger, etc..
+Kraft uttak. Spake på gammel. Gul stort sett kraftuttak. PTO - power take out. Ofte en foran og en bak.
+
+Trekk kruk. Åpne og lukke låsing.
+
+
+Bilde av nyere traktor..:
+13 vendegir, 9 hovedgir.
+Vendegir på venstre av rattet.
+Revers kan se ut som blinkindikator.. vittig.
+
+Bilde av moderne traktor: 1 mill pluss..
+En form for automatgir - 100hk og oppover. trinnløs gir. Vendegir er der ennå. Ofte høy og lav også. Kan programmeres.
+Faktisk trinnløst gir. (kan tippe to koniske sylindere mot hverandre..)
+Slipper du kjørepedalen så stopper traktoren opp og står i ro - også i bakker.
+Også håndgass til jevnt tempo.
+
+Ofte ikke speedometer på traktor. evt en traktormeter som viser hastighet på valgt gir.
+Diesel på traktor stort sett turtall på opp til 2100 2500. vanligvis ikke mer.
+
+Kraftuttak - nesten alle 540 rpm. bransjestandard. Eller 1000.. Vises gjerne på dashbordet, turtallindikator.
+(noen også 1000e, men nytt og ikke vanlig)
+2100 rpm på motor - gire om til 540 eller 1000. (noen eldre hadde 400 rpm, men ikke i bruk lengre)
+540 e ... ekstra gir (noen kaller det 750) 540 e kan ha lavere turtall bak - men bruker mindre diesel.
+Fint på over 100 hk traktor som skal drive 30 hk redskap.
+Gul girspake til å velge.
+Kraftuttakstapp. Står oftest merke på redskapet.
+
+Krafttak på gir bare en hastighet på valgt gir. Kan ødelegge redskap on en øker turtall.
+Trinnløs traktor setter turtall fast, men hastighet kan endres uavhengig.
+Krafttak ellers så rett som mulig fra veivaksling og bak til kraftuttak.
+Noen har dobbel clutch - en til gir og en til for kraftuttak. (trakke dobbelt ned, eller to ganger så langt ned?)
+
