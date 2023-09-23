@@ -176,3 +176,29 @@ Trinnløs traktor setter turtall fast, men hastighet kan endres uavhengig.
 Krafttak ellers så rett som mulig fra veivaksling og bak til kraftuttak.
 Noen har dobbel clutch - en til gir og en til for kraftuttak. (trakke dobbelt ned, eller to ganger så langt ned?)
 
+
+Glødeplugg - diesel flamme som varmer luftinntak til sylinder. (eller gløde coil..)
+
+Differensial sperre. indikator. og kan skrues av og på. så å si alle traktorer. Bryter på gulvet eller siden.
+Brukes når traktor spinner på et hjul.
+
+Andre girspake typer.
+
+F    1  3    A  C  E
+R    2  4    B  D  F      24 gir. (4x6)
+
+1, 2, 3, 4, ... (på linje) er hurtiggir. slipper clutch. Gire i bevegelse uten å clutche.
+
+Eller bokstaver på første og tall på andre. Varierer.
+Noen også + og -. (gjerne ferguson)
+
+
+
+3 Punkt
+
+Oppe - Toppstag (gjerne hydraulisk)
+Midt - Løftearm + Løftestag (gjenger som kan justere høyde - gjerne ulikt på hver side)
+Nede - Trekkstang  (dra plog i bakken)
+
+Kraftuttak tap - 6 spor.
+
