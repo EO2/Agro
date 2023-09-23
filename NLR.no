@@ -3,4 +3,52 @@ Norsk Landbruksrådgivning
 Gunstein.Dyrdal@nlr.no
 47463696
 
-Maskin - Motor
+Maskin - Motor - Traktor
+
+
+(Frontlaster) Motor, transmisjon/girkasse, hydraulikk/bakaksling (kraftuttak, 3 punkt)
+
+Hydraulikk uttak, olje og pumper. Oljen pumpes rundt til de ulike løftepunktene og uttakene.
+
+Service og Vedlikehold
+
+
+Batteri traktor - Solis 35w
+Golfbil
+
+Stort sett forbrenningsmotor med diesel. (2 takt, 4 takt. regner med mest 4 takt).
+4t (innsugning, Kompression, forbrenning/ekspansjon, utblåsning)
+
+Traktor bruker tannhjul mellom veivaksling og kamaksling - så en slipper registerreim.
+Stang mellom kamaksling og ventiler er visst også gått ut av noen typer.
+
+Ottocycle, atkinscycle
+
+Diesel..
+
+Tank
+Fødepumpe - leverer diesel inn til dieselpumpe. (Slipper å pumpe manuelt når det ikke er trykk/diesel i motor/sylinder).
+Dieselfilter (ofte 2 filter) (og stort sett kopp til å separere vann - gjerne med siktglass)
+Dieselpumpe
+Dyse (og retur til tank) (men dyse forer sylinder..)
+
+Diesel på bensin, kan overleve det. Litt fettete.
+Bensin på diesel ryker stort sett.
+
+
+Oftest turbo på traktorer.
+Hot exhaust, turbine wheel, wastegate, oil inlet, compressor wheel, ambient air inlet, compressed airflow.
+Charge air cooler (intercooler) - kjøler luft så det er plass til mer per volum. ca 5%.
+Kjøleren sitt prinsipp? fordeler over stort areal.. varmeveksler. bruker den også trykkendring til kjøling?
+
+
+Utgående motoreffekt ca 25%
+Kjølevann 34%
+Eksos og varmestråling (radiating) 35%
+Friksjon 6%
+Lyd .. ?%
+
+Elmotor bruker stor del av kraften. Høy utgående effekt.
+
+Luftkjøling (vs vannkjøling / oljekjøling)
+
