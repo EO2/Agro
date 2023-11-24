@@ -58,3 +58,25 @@ C1 klasse - best ull.. sjekke nærmere for best kvalitet.
  Er lang elle rkort best?
  Hvit mer verdi
 
+-- Video --
+
+Ullhåndtering..  Klipping, lagring, etc..  Klippe om våren.  Må være tørr..  
+
+Ikke dobbeltklipping.  
+Proffe klipper 2-300 sauer per dag. New Zealand teknikken.  
+Klippe mage først.. Best kvalitet.. 
+Rein sau.. Bade? kamme, trykkluft blåse??  
+
+## Best ull / Dyrest ull
+https://www.masterclass.com/articles/vicuna-wool-guide
+Aplakka, tåler kulde. Men produserer mye? Regler i norge, import - eller finnes de til lands??  
+
+
+## Lammetap
+30% dødfødt
+24% før vårbeite
+++
+ca 20% totalt tap (så ikke tall i presentasjon)
+
+
+
