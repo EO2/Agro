@@ -78,7 +78,14 @@ Ekstra lufttett barriere, så fort som mulig. Litt ekstra plass på ballen.
 ### Lessevogn
 Plukker opp i framkant. Puckup og kuttesystem. Slå først, legge i ranker. Så plukke opp.
 Belte i bunn som dytter gress bakover og fyller vogn. auto med følere eller manuelt. utbredt i norge. Pottinger største merke. (sveits). Lette vogner og stor kapasitet!  
-Større vogn, med kutterotor. Utmating. Eller en form for fordeling.  
+Større vogn, med kutterotor. (men vistnok alltid slåmaskin først..) Utmating. Eller en form for fordeling.  
+**1 trinns**.. nesten bare forhøsteren. alt i ett trinn. slå, sanke.  
+Ellers **to trinn**..  
+- Slåmaskin: streng på bakken, eller breisprer.  
+- Sprederive: sprer utover for tørking. bakken får tid å tørke mer, bedre å kjøre på. (sporepboblematikk ved melkeprod.. roter opp ting i jorden i foret..)
+> Innhøst..
+- Rakes: samle det igjen. samlerive (torotors).
+
 Kan ta vekk knivene og bruke som høyvogn.
 Effektiv. Kjøre fort.  Kan gjøre det alene. Enmannslinje.
 Plukke opp fra bakken: Fingrer plukker opp først, så større rotor som løfter videre opp og inn. Evt også presse igjennom et sett med kniver..  
