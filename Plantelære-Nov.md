@@ -65,3 +65,50 @@ Sukker - interessant mål. Høyt innhold er lett å konservere. Syrene spiser av
 
 Nettoenergi - Forenhet  
 
+Tørrstoff minus aske..  
+
+----
+
+## Forvekster
+
+- Flerårige (gress og belgvekster (kløver))
+- Ettårige forvekster (korn, gress og kålvekster)
+
+#### Gressfamilien
+- Timotei, engsvingel, raigress, engrapp, engkvein, strandsvingel, strandrør ++
+#### Belgvekster
+- Rødkløver, hvitkløver, alsikekløver, luserne, tiriltunge. (flerårige) (blod og perserkløver - ettårige)
+
+https://ndla.no/ art info
+
+Timotei bra smak. Tørker lett. Men varer ikke lenge.. beites lett ned.  (Grindstad vanligste sorten)  
+Strandsvingel og raisvingel blitt mer populært.  
+
+Hvitkløver har vegetativ formering men trenger mye lys. Rødkløver kortlivet.  
+
+Strandrør - lara - kyr liker det ikke, men står for mye for i siloer. vegetativ formering under bakken.  (Ander liker denne)  
+
+### Graminor
+Utvikler gress sorter i norge. Vil utkonkurrere Grindstad..  
+Lara, Gandalf, Engmo (norsk timotey versjon som overlever nordlig vinter)  
+
+La noen patcher gå til blomstring kunen fungert, men er eksperimentelt... Anders og inne på tanken.  
+Kan la noe stå og høste seint som egen type for?  
+
+Strandsvingel - stor avling, tåler tørke grunnet kraftig rotsystem.  Må takle bløte forhold også.  
+
+NPK "de viktigste" - egentlig de det trengs mest av.  
+
+Fosfor påvirket av ph i forhold til opptak.  
+
+Stubbehøyde - slås timotei for lavt kan det hemme veksten. sukkeret lagres mest langt nede. opplagsnæring.  
+
+### Overlevelse
+
+#### Overleve vinteren
+Frysing, uttørking, kvelning (is) og tom for opplagsnæring..
+#### Konkurranse med ugress
+Frøugress i gjenlegget (attlegget), flerårig ugress kommer "enn" etter eng er aldrende og åpne sår.  
+#### Overvintringssopp
+valg av tilpasset gressart og sort  
+
