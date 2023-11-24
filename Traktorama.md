@@ -91,5 +91,25 @@ Effektiv. Kjøre fort.  Kan gjøre det alene. Enmannslinje.
 Plukke opp fra bakken: Fingrer plukker opp først, så større rotor som løfter videre opp og inn. Evt også presse igjennom et sett med kniver..  
 
 
+### Eksaktsnitter 
+Forskjell fra forhøster: lange strå kan kile seg igjennom p ålangs. kniv ovenifra, fremfor hver side. Alt gress blir kuttet. kutterotor andre vei.  
+Gir fart, og måker det opp i en tillhenger. Ser helt ut som en forhøster ellers.  
+Lessevogn på korte avstander siden den må tømmes oftere. Ellers kan en kjøre shuttle trafikk på oppsamlere.
+
+### Kombirive
+Litt mindre. kjøre 3 ganger så langt.
+
+### Sprederive
+
+### Samlerive
+to rotors.. vanligst, effektive. fylle rundballepresser bedre.
+1 rotors.. gjør samme, men mindre effektiv.
+
+### Kamrive
+Samler gresset.
+Kan ligge i tre linjer som samles på en runde.  
+
+## Slepeslåmaskin, tilleg..
+Samler.. legge gress intill forrige linje. Ulempe at mye gress må tørkes samlet. Men fordel å spare plass og samle igjen på 1 tur fremfor to.  
 
 
