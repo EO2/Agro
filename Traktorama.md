@@ -52,7 +52,7 @@ kniver på siden, og en foran. krever endel vedlikehold. knekker, sliping..
 
 ### Rundballepresse, fastkammer - variabelkammerpresse
 Fastkammer: Ikke mye trykk i midten.  90% av denne typen.  
-Variabel: Mer trykk i modten, men tåler fuktig gress dårlig. Men endring på vei.. Blir bedre nå.  
+Variabel: Mer trykk i modten, men tåler fuktig gress dårlig. Men endring på vei.. Blir bedre nå.  Kan endre størrelsen. 80cm - 150cm. Større = mindre plast.
 typisk 25 kuttekniver. fordel med så mange som mulig for å kutte gresset.  
 - Ruller rundt, kniver foran.
 De fleste mater inn nede foran. Men noen har inntak på toppen.
@@ -69,8 +69,19 @@ Noen har addon bakpå for å snu de stående.. stort sett ikke brukt. omdiskuter
 Annen variant av kombipresse.. (Bio? Bale in One. gmmelt generelt prinsipp)  Holder ballene i samme kammer, men åpner luke så det blir plass til å surre plast. Går seinere..  
 1 ball mindre per runde.. 2000 baller i året.. vente i 1 minutt per ball.  Men kan kjøre når de andre parkerer.  
 
+### Breiplast
+Vevd nett.. Før var det tau.  
+Plast på ballen før den pakkes inn i annen plast.  
+1 breiplastrull ligger flatt foran. legger på 2-3 runder før ytterplast. Nesten bare det som blir solgt.  Lettere å sortere boss. plastretur.  Får mindre på rullen. må bytte ofte.  
+Ekstra lufttett barriere, så fort som mulig. Litt ekstra plass på ballen.  
 
-
+### Lessevogn
+Plukker opp i framkant. Puckup og kuttesystem. Slå først, legge i ranker. Så plukke opp.
+Belte i bunn som dytter gress bakover og fyller vogn. auto med følere eller manuelt. utbredt i norge. Pottinger største merke. (sveits). Lette vogner og stor kapasitet!  
+Større vogn, med kutterotor. Utmating. Eller en form for fordeling.  
+Kan ta vekk knivene og bruke som høyvogn.
+Effektiv. Kjøre fort.  Kan gjøre det alene. Enmannslinje.
+Plukke opp fra bakken: Fingrer plukker opp først, så større rotor som løfter videre opp og inn. Evt også presse igjennom et sett med kniver..  
 
 
 
