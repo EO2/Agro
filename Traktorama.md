@@ -117,3 +117,10 @@ Samler.. legge gress intill forrige linje. Ulempe at mye gress må tørkes samle
 
 Hvor ofte må høyet snues på bakken? (knekkes opp mer hver gang..)
 Hvor lang tørketid?  
+
+
+Høystål  
+Kjøre traktor rett inn i låve. Tilpasse låve størrelse til jordet.  
+
+Fordel med hesjing er å slippe å snu det.  
+
