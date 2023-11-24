@@ -113,3 +113,7 @@ Kan ligge i tre linjer som samles på en runde.
 Samler.. legge gress intill forrige linje. Ulempe at mye gress må tørkes samlet. Men fordel å spare plass og samle igjen på 1 tur fremfor to.  
 
 
+## Firkantballepresse...  sjekke ut dette.
+
+Hvor ofte må høyet snues på bakken? (knekkes opp mer hver gang..)
+Hvor lang tørketid?  
