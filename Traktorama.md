@@ -62,6 +62,16 @@ Lager ofte "løse" rundballer for å ta vare på høy.
 
 ### Rundballepakker
 Singel rundballe presser + rundballepakker. Gjøres i 2 operasjoner. (der det er bløtt, og eller bratt).  
-Kombi.. 1 operasjon.  Tung maskin.. bærer på 2 baller ofte.. 5-6 tonn + 2 baller = ca 8 tonn. Gode hjul. Boggey? 800 hjul..?
+Kombi.. 1 operasjon.  Tung maskin.. bærer på 2 baller ofte.. 5-6 tonn + 2 baller = ca 8 tonn. Gode hjul. Boggey? 800 hjul..? 710 var for lite. Fiskebein, langsgående. klatrer ikke.  
+Noen har hjul under også..  
+Noen har addon bakpå for å snu de stående.. stort sett ikke brukt. omdiskutert. triller ikke..  
+
+Annen variant av kombipresse.. (Bio? Bale in One. gmmelt generelt prinsipp)  Holder ballene i samme kammer, men åpner luke så det blir plass til å surre plast. Går seinere..  
+1 ball mindre per runde.. 2000 baller i året.. vente i 1 minutt per ball.  Men kan kjøre når de andre parkerer.  
+
+
+
+
+
 
 
