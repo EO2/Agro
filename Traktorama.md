@@ -16,3 +16,11 @@ slår 1.10 - 1.20 m bredde. ikke mye.
 
 Forhøster, totrinns..  Legger på bakken først, hentes opp etterpå.
 
+Vossakasse - ut av produksjon. bra i bratte teiger. kort avstand til silo. Forhøster på siden, og kasse bak liten traktor. kassetraktor.
+
+Rotorslåmaskin - stor rotor = dårligere å følge terreng. Men rimeligere. Går lett og fort.
+- Med stengelbehandler. (krinter..) stenger som knekker strået så det tørker fortere. Stål, plast, fjærstål, valser..
+
+Skiveslåmaskin - mindre skiver (enn disker), følger terreng bedre. Må ha plastduker - for de kaster stein.. Kommer også med stengelbehandler. (billigere, lettere - blir liggende i gresset, men plast ødelegger ikke utstyr like mye, men ligger igjen plast på jordet. Knekker mer..)
+
+
