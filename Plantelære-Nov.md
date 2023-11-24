@@ -111,4 +111,27 @@ Frysing, uttørking, kvelning (is) og tom for opplagsnæring..
 Frøugress i gjenlegget (attlegget), flerårig ugress kommer "enn" etter eng er aldrende og åpne sår.  
 #### Overvintringssopp
 valg av tilpasset gressart og sort  
+snømugg (sopp under snøen). også en til vanlig.. navn?  
+
+### Engfornying
+
+- varig eng (lavere avling, men lettere)
+
+Fornye..
+- Engomløp fra 2 år til...
+- 3-4 år vanlig
+- 5-6... også..
+
+Pløye hvert 6 år - ikke så gale?!  
+
+Så 3 kg per mål / per dekar.  Timotei små frø.. mindre mengde i kg.  
+2.5 ved radsåing. riktig dybde.  
+
+formel for såmengde..
+se slides..  
+
+Harving.. løsne topplag.. kan tørke ut.  
+
+Direktesåing.. me rkonkurranse vnskelig. endrer artsammensetningen mer enn avling øker.  
+
 
